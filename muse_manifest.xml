@@ -1,0 +1,63 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://grandesinge.github.io" resolutions="1x" timestamp="1793188811645">
+  <folder name="css">
+    <file name="site_global.css" crc="3926974155"/>
+    <file name="master_copie--de-grande-singe.css" crc="3824530138" ref="index"/>
+    <file name="index.css" crc="3778093501" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="cv-moreau-nov-2019.doc" crc="4253882792" seo="true" mt="1575568593000"/>
+    <file name="cv-christinemoreau-2020.pdf" crc="3941631052" seo="true" mt="1580324427000"/>
+    <file name="infra---mars-2020.pdf" crc="331965507" seo="true" mt="1586190205000"/>
+    <file name="voeux1.mp3" crc="4291781493" seo="true" mt="1622826634000"/>
+    <file name="voeux2.mp3" crc="403393947" seo="true" mt="1622827384000"/>
+    <file name="voeux3.mp3" crc="3968329166" seo="true" mt="1622828560000"/>
+    <file name="cv-christine-moreau-nov2023.pdf" crc="405387459" seo="true" mt="1699958073000"/>
+    <file name="cv-christine-moreau2025.pdf" crc="4128730923" seo="true" mt="1749415587000"/>
+    <file name="cv-christine-moreau-2026-v2.pdf" crc="3759423659" seo="true" mt="1787571620000"/>
+    <file name="cv-christine-moreau-2026-v3.pdf" crc="219101258" seo="true" mt="1788631271000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:tablet>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
+    <file name="museconfig.js" crc="380897831" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:tablet>index:index"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:tablet>index:index"/>
+  </folder>
+  <folder name="images">
+    <file name="grande singe rectangle - clair-crop-u11011.jpg" crc="208035547" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u10946-32.png" crc="3917825367" ref="index"/>
+    <file name="grandes singe titre-crop-u10943.jpg" crc="4158777991" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u10948-22.png" crc="273986300" ref="index"/>
+    <file name="grandes singe titre-crop-u10977.jpg" crc="3786342400" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grandes singe titre-crop-u10984.jpg" crc="515493444" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grandes singe titre-crop-u10991.jpg" crc="456586243" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u11021-4.png" crc="3901456231" ref="index"/>
+    <file name="u10945-5.png" crc="4028539823" ref="index"/>
+    <file name="u11029-9.png" crc="3942510475" ref="index"/>
+    <file name="u11035-9.png" crc="4120525140" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="3948741586" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="4046195937" seo="true" mt="1793120345445" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="279237556" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3909665584" seo="true" mt="1793120345446" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="26518963" seo="true" mt="1793188778559" redirect="true"/>
+</manifest>
